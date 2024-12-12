@@ -1,0 +1,233 @@
+{
+    "Banner": [
+        {
+            "url": "http://www.baidu.com/banner1.png"
+        },
+        {
+            "url": "http://www.baidu.com/banner2.png"
+        }
+    ],
+    "Category": [
+        {
+            "id": 0,
+            "picUrl": "http://www.baidu.com/cat1.png",
+            "title": "Pc"
+        },
+        {
+            "id": 1,
+            "picUrl": "http://www.baidu.com/cat2.png",
+            "title": "Smartphone"
+        },
+        {
+            "id": 2,
+            "picUrl": "http://www.baidu.com/cat3.png",
+            "title": "Headphone"
+        },
+        {
+            "id": 3,
+            "picUrl": "http://www.baidu.com/cat4.png",
+            "title": "Console"
+        },
+        {
+            "id": 4,
+            "picUrl": "http://www.baidu.com/cat5.png",
+            "title": "Camera"
+        },
+        {
+            "id": 5,
+            "picUrl": "http://www.baidu.com/cat6.png",
+            "title": "Smartwatch"
+        }
+    ],
+    "Items": [
+        {
+            "categoryId": "2",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed  do eiusmod tempor incididunt ut labore et dolore magna  aliqua. Ut enim ad minim veniam, quis nostrud exercitation  ullamco laboris nisi ut aliquip ex ea commodo consequat.  Duis aute irure dolor in reprehenderit in voluptate velit esse  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat  cupidatat non proident, sunt in culpa qui officia deserunt .Excepteur sint occaecat",
+            "model": [
+                "Black",
+                "Purple",
+                "Pink",
+                "Blue"
+            ],
+            "picUrl": [
+                "http://www.baidu.com/cat1_1.png"
+            ],
+            "price": 95,
+            "rating": 4.6,
+            "showRecommended": true,
+            "title": "Headphone 12A"
+        },
+        {
+            "categoryId": "0",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed  do eiusmod tempor incididunt ut labore et dolore magna  aliqua. Ut enim ad minim veniam, quis nostrud exercitation  ullamco laboris nisi ut aliquip ex ea commodo consequat.  Duis aute irure dolor in reprehenderit in voluptate velit esse  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat  cupidatat non proident, sunt in culpa qui officia deserunt .Excepteur sint occaecat",
+            "model": [
+                "core i3",
+                "core i5",
+                "core i7"
+            ],
+            "picUrl": [
+                "http://www.baidu.com/cat2_1.png",
+                "http://www.baidu.com/cat2_2.png",
+                "http://www.baidu.com/cat2_3.png",
+                "http://www.baidu.com/cat2_4.png",
+                "http://www.baidu.com/cat2_5.png"
+            ],
+            "price": 550,
+            "rating": 4.7,
+            "showRecommended": true,
+            "title": " Business Laptop "
+        },
+        {
+            "categoryId": "0",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed  do eiusmod tempor incididunt ut labore et dolore magna  aliqua. Ut enim ad minim veniam, quis nostrud exercitation  ullamco laboris nisi ut aliquip ex ea commodo consequat.  Duis aute irure dolor in reprehenderit in voluptate velit esse  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat  cupidatat non proident, sunt in culpa qui officia deserunt .Excepteur sint occaecat",
+            "model": [
+                "core i3",
+                "core i5",
+                "core i7"
+            ],
+            "picUrl": [
+                "http://www.baidu.com/loptop3.png"
+            ],
+            "price": 550,
+            "rating": 4.7,
+            "showRecommended": false,
+            "title": " Laptop A34f "
+        },
+        {
+            "categoryId": "0",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed  do eiusmod tempor incididunt ut labore et dolore magna  aliqua. Ut enim ad minim veniam, quis nostrud exercitation  ullamco laboris nisi ut aliquip ex ea commodo consequat.  Duis aute irure dolor in reprehenderit in voluptate velit esse  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat  cupidatat non proident, sunt in culpa qui officia deserunt .Excepteur sint occaecat",
+            "model": [
+                "core i3",
+                "core i5",
+                "core i7"
+            ],
+            "picUrl": [
+                "http://www.baidu.com/loptop2.png"
+            ],
+            "price": 550,
+            "rating": 4.7,
+            "showRecommended": false,
+            "title": "Laptop 128Gig "
+        },
+        null,
+        {
+            "categoryId": "0",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed  do eiusmod tempor incididunt ut labore et dolore magna  aliqua. Ut enim ad minim veniam, quis nostrud exercitation  ullamco laboris nisi ut aliquip ex ea commodo consequat.  Duis aute irure dolor in reprehenderit in voluptate velit esse  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat  cupidatat non proident, sunt in culpa qui officia deserunt .Excepteur sint occaecat",
+            "model": [
+                "core i3",
+                "core i5",
+                "core i7"
+            ],
+            "picUrl": [
+                "http://www.baidu.com/loptop4.png"
+            ],
+            "price": 550,
+            "rating": 4.7,
+            "showRecommended": false,
+            "title": "laptop B2003"
+        },
+        null,
+        null,
+        {
+            "categoryId": "0",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed  do eiusmod tempor incididunt ut labore et dolore magna  aliqua. Ut enim ad minim veniam, quis nostrud exercitation  ullamco laboris nisi ut aliquip ex ea commodo consequat.  Duis aute irure dolor in reprehenderit in voluptate velit esse  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat  cupidatat non proident, sunt in culpa qui officia deserunt .Excepteur sint occaecat",
+            "model": [
+                "core i3",
+                "core i5",
+                "core i7"
+            ],
+            "picUrl": [
+                "http://www.baidu.com/loptop5.png"
+            ],
+            "price": 550,
+            "rating": 4.7,
+            "showRecommended": true,
+            "title": " Business Laptop "
+        },
+        {
+            "categoryId": "0",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed  do eiusmod tempor incididunt ut labore et dolore magna  aliqua. Ut enim ad minim veniam, quis nostrud exercitation  ullamco laboris nisi ut aliquip ex ea commodo consequat.  Duis aute irure dolor in reprehenderit in voluptate velit esse  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat  cupidatat non proident, sunt in culpa qui officia deserunt .Excepteur sint occaecat",
+            "model": [
+                "core i3",
+                "core i5",
+                "core i7"
+            ],
+            "picUrl": [
+                "http://www.baidu.com/loptop6.png"
+            ],
+            "price": 550,
+            "rating": 4.7,
+            "showRecommended": false,
+            "title": "Laptop MOH345 "
+        },
+        {
+            "categoryId": "1",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed  do eiusmod tempor incididunt ut labore et dolore magna  aliqua. Ut enim ad minim veniam, quis nostrud exercitation  ullamco laboris nisi ut aliquip ex ea commodo consequat.  Duis aute irure dolor in reprehenderit in voluptate velit esse  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat  cupidatat non proident, sunt in culpa qui officia deserunt .Excepteur sint occaecat",
+            "model": [
+                "core i3",
+                "core i5",
+                "core i7"
+            ],
+            "picUrl": [
+                "http://www.baidu.com/loptop6.png"
+            ],
+            "price": 550,
+            "rating": 4.7,
+            "showRecommended": false,
+            "title": "Laptop MOH345 "
+        },
+        {
+            "categoryId": "4",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed  do eiusmod tempor incididunt ut labore et dolore magna  aliqua. Ut enim ad minim veniam, quis nostrud exercitation  ullamco laboris nisi ut aliquip ex ea commodo consequat.  Duis aute irure dolor in reprehenderit in voluptate velit esse  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat  cupidatat non proident, sunt in culpa qui officia deserunt .Excepteur sint occaecat",
+            "model": [
+                "18-55mm",
+                "35-200mm",
+                "75-300mm"
+            ],
+            "picUrl": [
+                "http://www.baidu.com/cat3_1.png",
+                "http://www.baidu.com/cat3_2.png",
+                "http://www.baidu.com/cat3_3.png",
+                "http://www.baidu.com/cat3_4.png"
+            ],
+            "price": 750,
+            "rating": 4.5,
+            "showRecommended": false,
+            "title": "Digital Camera"
+        },
+        {
+            "categoryId": "3",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed  do eiusmod tempor incididunt ut labore et dolore magna  aliqua. Ut enim ad minim veniam, quis nostrud exercitation  ullamco laboris nisi ut aliquip ex ea commodo consequat.  Duis aute irure dolor in reprehenderit in voluptate velit esse  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat  cupidatat non proident, sunt in culpa qui officia deserunt .Excepteur sint occaecat",
+            "model": [
+                "Slim",
+                "Slim Digital"
+            ],
+            "picUrl": [
+                "http://www.baidu.com/cat4_1.png",
+                "http://www.baidu.com/cat4_2.png",
+                "http://www.baidu.com/cat4_3.png"
+            ],
+            "price": 500,
+            "rating": 4.9,
+            "showRecommended": false,
+            "title": "PS5"
+        },
+        {
+            "categoryId": "5",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed  do eiusmod tempor incididunt ut labore et dolore magna  aliqua. Ut enim ad minim veniam, quis nostrud exercitation  ullamco laboris nisi ut aliquip ex ea commodo consequat.  Duis aute irure dolor in reprehenderit in voluptate velit esse  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat  cupidatat non proident, sunt in culpa qui officia deserunt .Excepteur sint occaecat",
+            "model": [
+                "Slim",
+                "Slim Digital"
+            ],
+            "picUrl": [
+                "http://www.baidu.com/cat4_1.png",
+                "http://www.baidu.com/cat4_2.png",
+                "http://www.baidu.com/cat4_3.png"
+            ],
+            "price": 500,
+            "rating": 4.9,
+            "showRecommended": false,
+            "title": "PS5"
+        }
+    ]
+}

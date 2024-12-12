@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">OnlineShop</string>
+    <string name="intro_title">
+        Welcome to <font color="#39C7A5">Digital Store</font>\n a <font color="#39C7A5">Gateway</font> to the Latest Tech
+    </string>
+    <string name="intro_sub_title">
+        Sign in to explore a wide range of cutting-edge digital products. Don\'t have an account yet? Register now and enjoy a seamless and secure shopping experience
+    </string>
+    <string name="let_go">Let\'s Get Started</string>
+    <string name="sign_in">Already have an account? Sign in</string>
+</resources>
